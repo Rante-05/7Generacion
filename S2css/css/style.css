@@ -1,0 +1,25 @@
+* {
+    font-family: arial;
+    font-family:italic
+}
+article{
+    border:5px solid peru 
+}
+.decoracion{
+    text-decoration: underline;
+}
+#unico{
+    text-transform: uppercase;
+}
+
+aside{
+    display: inline-block;
+    margin: 5;
+}
+
+section{
+    background: salmon;
+    width: ;
+}
+
+
